@@ -1,8 +1,8 @@
-**Financial Control
+## Financial Control
 
 Simple Financial app created using React, Redux, Redux-Form, Axios, Admin-Lte, MongoDB, Express, lodash, node-restful; 
 
-How to run this app ?
+## How to run this app ?
 
 * In the backend folder and front folder install all dependencies using `npm install`;
 * Run MongoDB using `mongod` command;
