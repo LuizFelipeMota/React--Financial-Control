@@ -1,4 +1,4 @@
-**Financial Control
+##Financial Control
 
 Simple Financial app created using React, Redux, Redux-Form, Axios, Admin-Lte, MongoDB, Express, lodash, node-restful; 
 
